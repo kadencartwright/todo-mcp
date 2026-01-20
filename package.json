@@ -1,0 +1,24 @@
+{
+  "name": "todo-mcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadencartwright/todo-mcp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadencartwright/todo-mcp/issues"
+  },
+  "homepage": "https://github.com/kadencartwright/todo-mcp#readme",
+  "dependencies": {
+    "better-sqlite3": "^12.6.2"
+  }
+}
